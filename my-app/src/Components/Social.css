@@ -1,0 +1,20 @@
+#socials-lol{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    column-gap: 10px;
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+}
+
+.social{
+    height: 40px;
+    width: 40px;
+    transition: width height 2s;
+}
+
+.social:hover{
+    height: 50px;
+    width: 50px;
+}

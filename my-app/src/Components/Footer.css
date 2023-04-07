@@ -1,0 +1,18 @@
+footer{
+    height: 100px;
+    width: 100%;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 40px;
+    background-image: url("../Pictures//crowd.jpg");
+}
+
+#copyright-container{
+    font-size: 15px;
+    color: white;
+}
+
+#copyright{
+    color: white;
+    margin-right: 5px;
+}

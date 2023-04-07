@@ -1,0 +1,46 @@
+form{
+    display: flex;
+    flex-direction: column;
+    min-height: 400px;
+    max-width: 600px;
+    border: 1px solid black;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: white;
+}
+
+#contact-div{
+    background-color: black;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+
+#contact-h3{
+    text-align: center;
+}
+
+.name-email{
+    padding: 2px 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.message-input{
+    padding: 2px 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+#msg-area{
+    min-height: 200px;
+    padding: 2px 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+label{
+    margin-left: 10px;
+    margin-right: 10px;
+}
